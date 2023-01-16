@@ -1,1 +1,1 @@
-# PRO-C15-EXPLOTAR-GLOBOS
+# ExplotarGlobos2-plantilla
